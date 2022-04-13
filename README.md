@@ -10,11 +10,11 @@ Ok. Our goal is to solve the most common problems in the blockchain ecosystem, r
 5. Lack of transaction throughput
 6. Lack of utility for the underlying assets
 7. Lack of Transparency in Slippage while transactions (Exchange)
-8. Almost opaque process of deciding the supply of the cryupto assets
+8. Almost opaque process of deciding the supply of the crypto assets.
 
 Byer ecosystem aims to solve these problems by launching a range of blockchain related solutions. This repository will serve as a monorepo for all the upcoming projects and open source repositories. 
 
-Stay tuned with byer.tech !
+Stay tuned with byer.tech ! Developers and new project owners are welcome. Our set of tools will allow you to get up and running and deploy your dapps on byer chain with even greater ease, and cost effectiveness. 
 
 <!--
 **byerchain/byerchain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
