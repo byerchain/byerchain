@@ -1,7 +1,24 @@
 ### Hi there 👋
+Byer Chain is a new blockchain based on ...yes! you got it right, ethereum blockchain, because it has it all that you need to get up and running, in a fast and stable way but wait! Then what's new here? 
+
+Ok. Our goal is to solve the most common problems in the blockchain ecosystem, removing the barriers for those who are new to crypto. 
+   
+1 .High gas fees
+2. Payment methods and wallet connectivity
+3. Security concerns
+4. High exchange rates
+5. Lack of transaction throughput
+6. Lack of utility for the underlying assets
+7. Lack of Transparency in Slippage while transactions (Exchange)
+8. Almost opaque process of deciding the supply of the cryupto assets
+
+Byer ecosystem aims to solve these problems by launching a range of blockchain related solutions. This repository will serve as a monorepo for all the upcoming projects and open source repositories. 
+
+Stay tuned with byer.tech !
 
 <!--
 **byerchain/byerchain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
